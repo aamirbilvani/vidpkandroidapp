@@ -1,0 +1,8 @@
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/textView1"
+    android:drawableRight="@drawable/plusminus"
+    style="@style/MainHeading"
+    android:layout_marginBottom="30sp"
+    android:background="@drawable/list_border"
+/>

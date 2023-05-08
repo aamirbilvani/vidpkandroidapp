@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:background="@drawable/list_border"   >
+
+    <ImageView
+        android:id="@+id/station_thumb"
+        android:layout_width="27px"
+        android:layout_height="27px"
+        android:layout_gravity="center_vertical"
+        android:contentDescription="@string/thumb"
+        android:src="@drawable/unknown_icon" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/station_name"
+	        style="@style/TextBox"
+            android:paddingLeft="30dp"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

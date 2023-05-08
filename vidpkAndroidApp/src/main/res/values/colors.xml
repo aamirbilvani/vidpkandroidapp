@@ -1,0 +1,7 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="background_color">#577DBF</color>
+    <color name="search_box_background_color">#466CAE</color>
+
+</resources>

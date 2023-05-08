@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:clickable="true"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/childLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/list_border"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <ImageView
+            android:id="@+id/childImage"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/star" />
+
+        <TextView
+            android:id="@+id/textView1"
+            style="@style/MainButton" />
+    </LinearLayout>
+
+</LinearLayout>

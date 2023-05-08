@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/menu/browse_by_channels.xml",
+        "source": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/menu/browse_by_channels.xml"
+    },
+    {
+        "merged": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/menu/browse_by_shows.xml",
+        "source": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/menu/browse_by_shows.xml"
+    },
+    {
+        "merged": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/menu/browse_by_videos.xml",
+        "source": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/menu/browse_by_videos.xml"
+    },
+    {
+        "merged": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/menu/main.xml"
+    }
+]

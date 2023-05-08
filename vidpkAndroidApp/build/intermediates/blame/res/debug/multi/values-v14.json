@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 507
+                    }
+                }
+            }
+        ]
+    }
+]

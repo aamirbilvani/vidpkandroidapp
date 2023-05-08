@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vidpk</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_browse_by_stations">Browse By Channels</string>
+    <string name="title_activity_browse_by_publishers">Browse By Publishers</string>
+    <string name="title_activity_browse_by_shows">Browse By Shows</string>
+    <string name="title_activity_browse_by_videos">Browse By Videos</string>
+    <string name="title_activity_video_player">Video Player</string>
+    <string name="btn_browse_by_station">Browse By Channels</string>
+    <string name="btn_browse_by_publisher">Browse By Publisher</string>
+    <string name="btn_popular_today">Popular Today</string>
+    <string name="btn_popular_month">Popular This Month</string>
+    <string name="btn_recently_updated">Recently Updated</string>
+    <string name="btn_viral">All viral videos</string>
+    <string name="btn_all">All</string>
+    <string name="btn_most_viewed">Most Viewed</string>
+    <string name="btn_most_viewed_today">Most Viewed Today</string>
+    <string name="no_data">No results returned.</string>
+    <string name="shows">Shows</string>
+    <string name="videos">Videos</string>
+    <string name="searching">Searching Vidpk&#8230;</string>
+    <string name="retrieving_next_ten">Retrieving next 10 results&#8230;</string>
+    <string name="retrieving">Retrieving data&#8230;</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="title_activity_foooooo">Foooooo</string>
+    <string name="thumb">Thumbnail</string>
+    <string name="buffering">Buffering video&#8230;</string>
+    
+    <string name="no_internet_title">No internet connection</string>
+    <string name="no_internet_text">No internet connection detected. The Vidpk app needs an internet connection to function.</string>
+    <string name="no_internet_text_short">No internet connection available.</string>
+    
+    <string name="tv">TV</string>
+    <string name="film">FILM</string>
+    <string name="telefilm">TELEFILMS</string>
+    <string name="indie">INDIE</string>
+    <string name="viral">VIRAL</string>
+
+    <string name="search_hint">Search Vidpk</string>
+
+    <!--<string name="banner_ad_unit_id">ca-app-pub-2835855423849489/8171235742</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

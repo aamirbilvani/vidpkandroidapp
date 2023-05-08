@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/build/intermediates/res/merged/debug/drawable-ldpi-v4/vidpk_logo.png",
+        "source": "/Users/abbas/StudioProjects/VidpkAndroidApp/vidpkAndroidApp/src/main/res/drawable-ldpi/vidpk_logo.png"
+    }
+]

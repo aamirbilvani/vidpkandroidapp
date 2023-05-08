@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VidpkAndroidApp.iml" filepath="$PROJECT_DIR$/VidpkAndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vidpkAndroidApp/vidpkAndroidApp.iml" filepath="$PROJECT_DIR$/vidpkAndroidApp/vidpkAndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+    </modules>
+  </component>
+</project>
